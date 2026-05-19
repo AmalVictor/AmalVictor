@@ -3,16 +3,7 @@
 I'm Amal Victor, a Computer Science student passionate about Full Stack Development, AI/ML, and building real-world applications.
 
 ## Tech Stack
-- React.js
-- Next.js
-- Node.js
-- FastAPI
-- Python
-- MongoDB
-- Docker
-- AWS
-- YOLO
-- OpenCV
+React.js • Next.js • Node.js • FastAPI • Python • MongoDB • Docker • AWS • YOLO • OpenCV
 
 ## Check out my featured projects below 👇
 - Tender Compliance Validator
