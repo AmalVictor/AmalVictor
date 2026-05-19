@@ -21,9 +21,9 @@ I'm Amal Victor, a Computer Science student passionate about Full Stack Developm
 - Real-Time Chat Application
 
 ## Connect With Me
-- LinkedIn
-- GitHub
-- amalvictor96@gmail.com
+- GitHub: https://github.com/AmalVictor
+- LinkedIn: https://www.linkedin.com/in/amal-victor-9bba4b290
+- Email: amalvictor96@gmail.com
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AmalVictor&show_icons=true)
 
