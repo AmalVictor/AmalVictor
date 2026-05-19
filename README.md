@@ -1,5 +1,4 @@
 # Hi there 👋
-
 I'm Amal Victor, a Computer Science student passionate about Full Stack Development, AI/ML, and building real-world applications.
 
 ## Tech Stack
