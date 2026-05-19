@@ -25,6 +25,6 @@ I'm Amal Victor, a Computer Science student passionate about Full Stack Developm
 - LinkedIn: https://www.linkedin.com/in/amal-victor-9bba4b290
 - Email: amalvictor96@gmail.com
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AmalVictor&show_icons=true" />
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=AmalVictor&show_icons=true)
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmalVictor&layout=compact" />
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AmalVictor&layout=compact)
