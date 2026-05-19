@@ -15,6 +15,4 @@ React.js • Next.js • Node.js • FastAPI • Python • MongoDB • Docker �
 - LinkedIn: https://www.linkedin.com/in/amal-victor-9bba4b290
 - Email: amalvictor96@gmail.com
 
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=AmalVictor&show_icons=true)
-
 ![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AmalVictor&layout=compact)
