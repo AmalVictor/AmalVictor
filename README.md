@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**AmalVictor/AmalVictor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Amal Victor, a Computer Science student passionate about Full Stack Development, AI/ML, and building real-world applications.
 
-Here are some ideas to get you started:
+## Tech Stack
+- React.js
+- Next.js
+- Node.js
+- FastAPI
+- Python
+- MongoDB
+- Docker
+- AWS
+- YOLO
+- OpenCV
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Projects
+- Tender Compliance Validator
+- Financial Bubble Detection System
+- Pandemic Monitoring System
+- Real-Time Chat Application
+
+## Connect With Me
+- LinkedIn
+- GitHub
+- amalvictor96@gmail.com
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AmalVictor&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AmalVictor&layout=compact)
