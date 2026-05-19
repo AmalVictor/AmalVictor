@@ -14,7 +14,7 @@ I'm Amal Victor, a Computer Science student passionate about Full Stack Developm
 - YOLO
 - OpenCV
 
-## Featured Projects
+## Check out my featured projects below 👇
 - Tender Compliance Validator
 - Financial Bubble Detection System
 - Pandemic Monitoring System
