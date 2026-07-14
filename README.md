@@ -1,5 +1,5 @@
 # Hi there 👋
-I'm Amal Victor, a Computer Science student passionate about Full Stack Development, AI/ML, and building real-world applications.
+I'm Amal Victor, a Computer Science student passionate about Full Stack Development, AI/ML, Cloud Computing and building real-world applications.
 
 ## Tech Stack
 React.js • Next.js • Node.js • FastAPI • Python • MongoDB • Docker • AWS • YOLO • OpenCV
@@ -16,3 +16,6 @@ React.js • Next.js • Node.js • FastAPI • Python • MongoDB • Docker �
 - Email: amalvictor96@gmail.com
 
 ![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AmalVictor&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AmalVictor&show_icons=true&theme=default)
+![Snake animation](https://raw.githubusercontent.com/AmalVictor/AmalVictor/output/github-contribution-grid-snake.svg)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AmalVictor)
