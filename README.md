@@ -17,5 +17,4 @@ React.js • Next.js • Node.js • FastAPI • Python • MongoDB • Docker �
 
 ![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AmalVictor&layout=compact)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AmalVictor&show_icons=true&theme=default)
-![Snake animation](https://raw.githubusercontent.com/AmalVictor/AmalVictor/output/github-contribution-grid-snake.svg)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AmalVictor)
+
